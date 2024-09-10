@@ -12,8 +12,7 @@
     "next": "14.2.9",
     "react": "^18",
     "react-dom": "^18",
-    "shadcn": "^2.0.5",
-    "ui": "^0.2.4"
+    "shadcn": "^2.0.5"
   },
   "devDependencies": {
     "@types/node": "^20",
